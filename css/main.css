@@ -1,0 +1,87 @@
+.full-width {
+    width: 500px;
+    clear: left;
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+}
+
+.sixty-width {
+    width: 55%;
+    float: left;
+}
+
+.forty-width {
+    width: 45%;
+    float:left;
+}
+
+body {
+    background: #000000;
+    color: #ffffff;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 30px 20px 20px 20px;
+}
+
+h1 {
+    font-size: 85px;
+    padding: 0;
+    margin: 0;
+    line-height: 85px;
+}
+
+h2 {
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+    line-height: 50px;
+}
+
+h3 {
+    font-size: 40px;
+    padding: 0;
+    margin: 0;
+    line-height: 40px;
+}
+
+h4 {
+    font-size: 35px;
+    padding: 0;
+    margin: 0;
+    line-height: 35px;
+}
+
+h5 {
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+    line-height: 25px;
+}
+
+h6 {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    line-height: 20px;
+}
+
+p {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    line-height: 16px;
+}
+
+.small {
+    font-size: 13px;
+    line-height: 13px;
+}
+
+.big {
+    font-size: 18px;
+    line-height: 18px;
+}
